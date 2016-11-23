@@ -1,0 +1,2 @@
+C:/Users/Matteo/Documents/LEZIONI/C e C++/esercizi-C/26-ottobre/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matteo/Documents/LEZIONI/C e C++/esercizi-C/26-ottobre/cmake-build-debug/CMakeFiles/rebuild_cache.dir
